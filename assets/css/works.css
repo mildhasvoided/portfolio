@@ -1,4 +1,14 @@
 body{
-    background-color:rgb(46, 46, 46);
+    background-color:rgb(0, 0, 0);
     color:white;
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace;
+}
+#return{
+    color:red;
+    background-color: transparent
+}
+#gd{
+    color:blue;
+    background-color: transparent;
 }
